@@ -1,4 +1,4 @@
 {
-    "version": "2.8",
-    "notes": "Fixed an arithmetic error for ESX users caused by nil max and min values with esx_status integration."
+    "version": "2.9",
+    "notes": "Moved maxuses enforcement to the server side to prevent relog abuse. Each item can now be used once per server restart per player. Added Config.Translations for all notifications to be translatable."
 }
