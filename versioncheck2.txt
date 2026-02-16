@@ -1,4 +1,4 @@
 {
-    "version": "2.9",
-    "notes": "Moved maxuses enforcement to the server side to prevent relog abuse. Each item can now be used once per server restart per player. Added Config.Translations for all notifications to be translatable."
+    "version": "3.0",
+    "notes": "Brand new UI for in-game consumable editing and also live prop alignment tool. Added universal inventory support, Alcohol BAC Testing and Drug Testing compatibility along with a few developer exports."
 }
