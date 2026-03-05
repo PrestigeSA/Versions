@@ -1,4 +1,0 @@
-{
-    "version": "3.0",
-    "notes": "Brand new UI for in-game consumable editing and also live prop alignment tool. Added universal inventory support, Alcohol BAC Testing and Drug Testing compatibility along with a few developer exports."
-}
