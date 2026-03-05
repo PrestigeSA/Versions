@@ -1,7 +1,7 @@
 {
     "pixel-consumables": {
-        "version": "3.0",
-        "notes": "Brand new UI for in-game consumable editing and also live prop alignment tool. Added universal inventory support, Alcohol BAC Testing and Drug Testing compatibility along with a few developer exports."
+        "version": "3.2",
+        "notes": "Reworked server sided item validation and also fixed animations saving from the UI to config."
     },
     "pixel-leomdt": {
         "version": "1.0.0",
