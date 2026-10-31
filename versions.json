@@ -8,8 +8,8 @@
         "notes": "Working on it."
     },
     "pixel-atms": {
-        "version": "1.0.3",
-        "notes": "Small config changes"
+        "version": "1.0.4",
+        "notes": "Better descriptive logs"
     },
     "pixel-utils": {
         "version": "1.3.0",
