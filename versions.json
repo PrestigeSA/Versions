@@ -12,7 +12,7 @@
         "notes": "Fixed modules syntax errors"
     },
     "pixel-utils": {
-        "version": "1.4.0",
-        "notes": "Version 1.4.0"
+        "version": "1.4.1",
+        "notes": "Added compatibility for dc_banking"
     }
 }
