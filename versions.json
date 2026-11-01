@@ -8,8 +8,8 @@
         "notes": "Working on it."
     },
     "pixel-atms": {
-        "version": "1.1.0",
-        "notes": "New Lom Bank kiosk ATM: pry open its safe, hack it with a spoofed card, or use its own touchscreen bank"
+        "version": "1.1.1",
+        "notes": "Minor config change"
     },
     "pixel-utils": {
         "version": "1.4.1",
