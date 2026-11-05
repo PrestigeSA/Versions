@@ -14,5 +14,9 @@
     "pixel-utils": {
         "version": "1.4.1",
         "notes": "Added compatibility for dc_banking"
+    },
+    "pixel-flashlights": {
+        "version": "1.0.0",
+        "notes": "Initial release"
     }
 }
